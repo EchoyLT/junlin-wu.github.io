@@ -6,9 +6,9 @@ This is a one-page academic personal website.
 
 - About
 - Research Interest
-- Awards & Grants
 - Projects
-- Publications & Manuscripts
+- Awards & Grants
+- Publications
 - Conference Presentations & Posters
 - Newspaper
 - Supervisor
