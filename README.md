@@ -1,33 +1,29 @@
-# Personal Academic Website
+# Junlin Wu | Academic Personal Website
 
-This is a one-page academic personal website template.
+This is a one-page academic personal website.
 
 ## Sections
 
-- Home
 - About
-- Research
+- Research Interest
+- Awards & Grants
 - Projects
-- Publications
-- Resources
-- Team
-- News
+- Publications & Manuscripts
+- Conference Presentations & Posters
+- Newspaper
+- Supervisor
 - Contact
 
-## How to use
+## Deployment
 
-1. Open `index.html` in your browser to preview the website.
-2. Edit `index.html` to replace the text with your own content.
-3. Edit `style.css` if you want to change colors, spacing, or layout.
-4. Upload all files to a GitHub repository.
-5. Enable GitHub Pages in repository Settings > Pages.
+Upload the following files and folders to the root of the GitHub repository:
 
-## Suggested GitHub Pages setup
+- `index.html`
+- `style.css`
+- `script.js`
+- `README.md`
+- `images/`
 
-If your repository is named `Homepage`, your website will look like:
+Then enable GitHub Pages from:
 
-`https://yourusername.github.io/Homepage/`
-
-If your repository is named `yourusername.github.io`, your website will look like:
-
-`https://yourusername.github.io/`
+Settings → Pages → Deploy from a branch → main → /root
